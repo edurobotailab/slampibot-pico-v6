@@ -11,6 +11,7 @@
 
 ## Websites and Videos related to SlamPiBot-V6
 - [Homepage for SlamPiBot-V6](https://edurobotailab.modoo.at/)
-- [Naver SmartStore for SlamPiBot-V6](http://naver.com/)
+- [Naver SmartStore for SlamPiBot-V6](https://smartstore.naver.com/edurobotailab/)
 - [Naver Cafe for SlamPiBot-V6](http://cafe.naver.com/edurobotailab/)
-- [Videos for SlamPiBot-V6](https://www.youtube.com/)
+- [Naver Blog for SlamPiBot-V6](https://blog.naver.com/edurobotailab/)
+- [Videos for SlamPiBot-V6](https://www.youtube.com/@EduRobotAILab-ERAIL/featured/)
